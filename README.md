@@ -1,28 +1,15 @@
-# This is a large heading
+# Kirill Odarenko
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Petropavlovsk, North Kazaknstan
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+My favorite books:
 
-Here is `some code` in the middle of a sentence.
+- *Tikhii Don* by Scholohov
+- *Crime and Punishment* by Dostoevsky
+- *Master and Margarita* bu Bulgakov
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+You can see very funny picture ![here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FiJRJmRT_transparent-demoman-png-tf2-fat-demoman-png-download%2F&psig=AOvVaw0XjNML-vvk0w55uHmGbd3h&ust=1603363909132000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPi2kp_CxewCFQAAAAAdAAAAABAP)
